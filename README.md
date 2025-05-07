@@ -15,7 +15,7 @@ This project showcases:
 - **Interactive Layout:**
   - Interactive hover effects for better user engagement.
 - **Content Sections:**
-  - **Header:** Displays the title of the website and categories.
+  - **Header:** Displays the title of the website.
   - **Products:** Produce the Cards.
 
 ## Preview
