@@ -1,5 +1,23 @@
-@mixin respond($screenType){
-    @if $screenType == mobile {
-        @media only screen and (min)
-    }
+@mixin media-sm {
+  @media screen and (max-width: 576px) {
+    @content;
+  }
+}
+
+@mixin media-md {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin media-lg {
+  @media screen and (max-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin media-xl {
+  @media screen and (max-width: 1600px) {
+    @content;
+  }
 }
