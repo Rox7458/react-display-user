@@ -1,27 +1,27 @@
 const users = [
   {
     id: 1,
-    name: "Alex Johnson",
-    role: "Web Developer",
-    imageUrl: "https://randomuser.me/api/portraits/men/1.jpg",
+    name: "Walter White",
+    role: "Chemist",
+    img: "1.webp",
   },
   {
     id: 2,
-    name: "Sam Wilson",
-    role: "UI Designer",
-    imageUrl: "https://randomuser.me/api/portraits/men/2.jpg",
+    name: "Hank Schrader",
+    role: "High-Ranking Officer",
+    img: "2.webp",
   },
   {
     id: 3,
-    name: "Taylor Smith",
-    role: "Backend Engineer",
-    imageUrl: "https://randomuser.me/api/portraits/women/3.jpg",
+    name: "Gustavo Fring",
+    role: "Major Narcotics Distributor ",
+    img: "3.webp",
   },
   {
     id: 4,
-    name: "Jordan Lee",
-    role: "Fullstack Developer",
-    imageUrl: "https://randomuser.me/api/portraits/women/4.jpg",
+    name: "Jesse Pinkman",
+    role: "Junior Chemist",
+    img: "4.webp",
   },
 ];
 
